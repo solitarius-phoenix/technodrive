@@ -1,0 +1,14 @@
+{
+    "name": "technodrive/master",
+    "description": "Technodrive MVC Skeleton",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Technodrive\\Master\\": "src",
+            "Technodrive\\Core\\": "vendor/technodrive/core/src",
+            "Application\\": "module/Application",
+            "Administration\\": "module/Administration"
+        }
+    },
+    "require": {}
+}
