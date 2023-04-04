@@ -6,6 +6,9 @@
         "psr-4": {
             "Technodrive\\Master\\": "src",
             "Technodrive\\Core\\": "vendor/technodrive/core/src",
+            "Technodrive\\Module\\": "vendor/technodrive/module/src",
+            "Technodrive\\Process\\": "vendor/technodrive/process/src",
+            "Technodrive\\Router\\": "vendor/technodrive/router/src",
             "Application\\": "module/Application",
             "Administration\\": "module/Administration"
         }

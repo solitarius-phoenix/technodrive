@@ -1,5 +1,4 @@
 <?php
 return [
     'Application',
-    'Administration',
 ];

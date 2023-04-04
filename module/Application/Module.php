@@ -2,13 +2,19 @@
 
 namespace Application;
 
-class Module implements \Technodrive\Core\Interfaces\Module
+/**
+ *
+ */
+class Module
 {
 
+    /**
+     * @return string[]
+     */
     public function getConfig(): array
     {
         return [
-            './config/application.config.php',
+            __DIR__ . '/config/application.config.php',
         ];
     }
 
