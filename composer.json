@@ -9,8 +9,10 @@
             "Technodrive\\Module\\": "vendor/technodrive/module/src",
             "Technodrive\\Process\\": "vendor/technodrive/process/src",
             "Technodrive\\Router\\": "vendor/technodrive/router/src",
-            "Application\\": "module/Application",
-            "Administration\\": "module/Administration"
+            "Technodrive\\Dispatcher\\": "vendor/technodrive/dispatcher/src",
+            "Technodrive\\Mvc\\": "vendor/technodrive/mvc/src",
+            "Application\\": "module/Application/src/",
+            "Administration\\": "module/Administration/src/"
         }
     },
     "require": {}

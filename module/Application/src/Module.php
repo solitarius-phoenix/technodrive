@@ -14,7 +14,7 @@ class Module
     public function getConfig(): array
     {
         return [
-            __DIR__ . '/config/application.config.php',
+            __DIR__ . '/../config/application.config.php',
         ];
     }
 
